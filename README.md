@@ -1,2 +1,3 @@
-# myfirstrepo
-this is for java project
+# maven-project
+
+Simple Maven Project
